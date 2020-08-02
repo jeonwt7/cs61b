@@ -1,0 +1,1 @@
+I am taking CS61C concurrently, so I had two projects due on the same day. Also, there were some problems with the 61C project starter code and the autograder, which have caused me to spend more time on the project than I had anticipated. Thanks for your understanding!
